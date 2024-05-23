@@ -13,7 +13,7 @@
 
 :stuck_out_tongue_winking_eye: When I'm not knee-deep in data, I'm probably dancing, walking, writing, volunteering, playing basketball, or watching documentaries. 
 
-🌟 Let's Connect on [LinkedIn](www.linkedin.com/in/nonhlanhla-linda-luphade-088882162)! Whether you're looking to collaborate on projects, share insights, or explore opportunities, I'm always open to connecting with fellow data enthusiasts and industry professionals. Feel free to reach out!
+🌟 Let's Connect on [LinkedIn](https://www.linkedin.com/in/nonhlanhla-linda-luphade-088882162)! Whether you're looking to collaborate on projects, share insights, or explore opportunities, I'm always open to connecting with fellow data enthusiasts and industry professionals. Feel free to reach out!
 
 <!---
 nonhlanhlaluphade/nonhlanhlaluphade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
