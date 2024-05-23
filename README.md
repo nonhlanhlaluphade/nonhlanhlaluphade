@@ -11,7 +11,7 @@
 
 💡 One of my key strengths is my ability to quickly grasp new concepts and technologies, allowing me to stay at the forefront of advancements in the field of data analytics. I'm deeply committed to continuous learning and staying updated with the latest trends and technologies in the field of data science and analytics. I believe in the power of data to revolutionize industries and am driven by the challenge of unlocking its potential.
 
-:stuck_out_tongue_winking_eye: When I'm not knee-deep in data, I'm probably dancing, walking, writing, volunteering, playing basketball or watching documentaries. 
+:stuck_out_tongue_winking_eye: When I'm not knee-deep in data, I'm probably dancing, walking, writing, volunteering, playing basketball, or watching documentaries. 
 
 🌟 Let's Connect on [LinkedIn](www.linkedin.com/in/nonhlanhla-linda-luphade-088882162)! Whether you're looking to collaborate on projects, share insights, or explore opportunities, I'm always open to connecting with fellow data enthusiasts and industry professionals. Feel free to reach out!
 
