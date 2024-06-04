@@ -15,8 +15,8 @@
 
 🌟 Let's Connect on [LinkedIn](https://www.linkedin.com/in/nonhlanhla-linda-luphade-088882162)! Whether you're looking to collaborate on projects, share insights, or explore opportunities, I'm always open to connecting with fellow data enthusiasts and industry professionals. Feel free to reach out!
 
-### 📂 Project Portofolio
-[**Click here, please!**](https://github.com/nonhlanhlaluphade/Data-Analytics-Project-Portfolio)
+<!--- ### 📂 Project Portofolio
+[**Click here, please!**](https://github.com/nonhlanhlaluphade/Data-Analytics-Project-Portfolio) --->
 
 <!---
 nonhlanhlaluphade/nonhlanhlaluphade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
